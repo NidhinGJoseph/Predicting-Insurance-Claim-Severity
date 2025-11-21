@@ -31,9 +31,9 @@ Trained and evaluated using standard metrics.
 
 📂 Repository Structure
 📁 Insurance-Claim-Severity
- ├── INSURANCE.ipynb      # The main notebook
- ├── Insurance_Claims.csv # Dataset
- └── README.md            # Project documentation
+ ├── INSURANCE.ipynb      
+ ├── Insurance_Claims.csv 
+ └── README.md            
 
 Requirements
 
