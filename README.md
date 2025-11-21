@@ -28,13 +28,7 @@ Identified key patterns in claim severity.
 5. Model Development
 Built machine learning models for predicting insurance claim severity.
 Trained and evaluated using standard metrics.
-
-📂 Repository Structure
-📁 Insurance-Claim-Severity
- ├── INSURANCE.ipynb      
- ├── Insurance_Claims.csv 
- └── README.md            
-
+   
 Requirements
 
 Install dependencies:
